@@ -1,0 +1,5 @@
+<aura:component>
+    <div class="slds-m-around_xx-large">
+        <p>Hello Component!</p>
+    </div>
+</aura:component>	
