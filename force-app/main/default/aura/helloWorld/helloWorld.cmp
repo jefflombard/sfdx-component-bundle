@@ -1,5 +1,5 @@
-<aura:component>
-    <div class="slds-m-around_xx-large">
-        <p>Hello Component!</p>
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <div class="slds-p-around_xx-large bg-color">
+        <p class="heading_large">Hello Component!</p>
     </div>
 </aura:component>	
