@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273859,
+            "changeTime": 1578584273859,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273860,
+            "changeTime": 1578584273860,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273865,
+            "changeTime": 1578584273865,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273860,
+            "changeTime": 1578584273860,
+            "contentHash": "5395ebfd174b0a5617e6f409dfbb3e064e3fdf0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273865,
+            "changeTime": 1578584273865,
+            "contentHash": "c774611c339dacc333dfe5817b823c89cdd68119",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1578584273861,
+            "changeTime": 1578584273861,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1578584273861,
+            "changeTime": 1578584273861,
+            "contentHash": "6aa9ac0580f2cc1202c649520db5768d2c425f76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1578584273862,
+            "changeTime": 1578584273862,
+            "contentHash": "7b9356ecf7071ce3dedb7487ca310c698503daa3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 41,
+            "modifiedTime": 1578584273863,
+            "changeTime": 1578584273863,
+            "contentHash": "b4292dec6bb4727c64f03298538702861b65065b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1578584273863,
+            "changeTime": 1578584273863,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1578584273864,
+            "changeTime": 1578584273864,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1578584273864,
+            "changeTime": 1578584273864,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1578584273865,
+            "changeTime": 1578584273865,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\aura\\helloWorld\\helloWorldRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1578584273865,
+            "changeTime": 1578584273865,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578584273866,
+            "changeTime": 1578584273866,
+            "contentHash": "8db0c01f640acc7ba1b555b8d1a44b12fe1de7dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1774,
+            "modifiedTime": 1578584273866,
+            "changeTime": 1578584273866,
+            "contentHash": "88dccc064b8f0167706c020a1b3bcd7b53f9f6ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Harika\\Practice\\sfdx-component-bundle",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Harika\\Practice\\sfdx-component-bundle",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578585799810,
+            "changeTime": 1578585799810,
+            "contentHash": "9977a3d0d5a5c3c4fb3d77165e7bf9aabdfd6a2b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
